@@ -1,4 +1,4 @@
 - 👋 Hi, I’m chaka
-- 👀 I’m interested in ...hack for games
-- 🌱 I’m currently learning ...gamesense
-- 💞️ I’m looking to collaborate on  johnwick#7767
+- 👀 I’m interested in ...games
+- 🌱 I’m currently learning ...Python
+- 💞️ I’m looking to Discord on  johnwick#7767
